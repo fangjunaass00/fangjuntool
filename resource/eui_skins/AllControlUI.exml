@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AllControlUISkin" width="640" height="1038" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1626fab1841" ></w:Config>
+	<e:Rect fillColor="0xffffff" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="imgTec" source="jishu_png" x="2" y="-2" anchorOffsetX="0" width="293.06" anchorOffsetY="0" height="625.2"/>
+	<e:Image id="imgWork" source="yeuw_png" x="2" y="786.81" anchorOffsetX="0" width="634" anchorOffsetY="0" height="297.19"/>
+	<e:Image id="imgAttention" source="zhuyi_png" x="294.5" y="157.06" anchorOffsetX="0" width="355" anchorOffsetY="0" height="248.94"/>
+	<e:Image id="imgOwner" source="zuozhe_png" x="305.5" y="619.56" anchorOffsetX="0" width="344" anchorOffsetY="0" height="161.25"/>
+</e:Skin>

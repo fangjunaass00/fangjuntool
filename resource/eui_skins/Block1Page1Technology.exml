@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Block1Page1TechnologySkin" width="640" height="1038" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1626fd3c478" ></w:Config>
+	<e:Scroller left="0" right="0" top="0" bottom="0">
+		<e:Group id="gpSc">
+			<e:Group id="gpMain" y="0" left="0" right="0">
+				<e:Image source="bg_jpg" x="3" y="89"/>
+				<e:Image source="egret_icon_png" x="0" y="0"/>
+			</e:Group>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

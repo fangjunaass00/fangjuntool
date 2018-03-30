@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Block1Page1ShowDetailUISkin" width="640" height="1038" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16274f20f14" ></w:Config>
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0xffffff"/>
+	<e:Scroller left="0" right="0" top="0" bottom="0">
+		<e:Group>
+			<e:Label text="零宽断言" y="76" anchorOffsetX="0" width="640" anchorOffsetY="0" height="64" horizontalCenter="0" textAlign="center" textColor="0x191616" fontFamily="Microsoft YaHei"/>
+			<e:Image source="rex_png" y="163.79" horizontalCenter="0"/>
+			<e:Label text="两点断言" x="6" y="736" anchorOffsetX="0" width="619.45" anchorOffsetY="0" height="78.48" textColor="0x000000" fontFamily="Microsoft YaHei"/>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

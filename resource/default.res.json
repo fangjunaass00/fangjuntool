@@ -1,0 +1,89 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,roundthumb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,rex_png,pic_png",
+			"name": "preload"
+		},
+		{
+			"keys": "jishu_png,zhuyi_png,yeuw_png,zuozhe_png",
+			"name": "mainPage"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/fangjun/mainPage/jishu.png",
+			"type": "image",
+			"name": "jishu_png"
+		},
+		{
+			"url": "assets/fangjun/mainPage/zhuyi.png",
+			"type": "image",
+			"name": "zhuyi_png"
+		},
+		{
+			"url": "assets/fangjun/mainPage/yeuw.png",
+			"type": "image",
+			"name": "yeuw_png"
+		},
+		{
+			"url": "assets/fangjun/mainPage/zuozhe.png",
+			"type": "image",
+			"name": "zuozhe_png"
+		},
+		{
+			"name": "rex_png",
+			"type": "image",
+			"url": "assets/fangjun/block1/message/rex.png"
+		},
+		{
+			"name": "pic_png",
+			"type": "image",
+			"url": "assets/fangjun/block1/message/pic.png"
+		}
+	]
+}
