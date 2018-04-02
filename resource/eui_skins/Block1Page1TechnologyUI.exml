@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <e:Skin class="Block1Page1TechnologyUISkin" width="640" height="1038" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
 	<w:Config id="1627061fef2" ></w:Config>
+	<e:Image scaleX="1" scaleY="1" source="bg2_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Rect left="0" right="0" top="0" bottom="0" alpha="0.3"/>
 	<e:Scroller left="0" right="0" top="0" bottom="0">
 		<e:Group>
-			<e:Group id="gpMain" x="0" y="0" width="640">
-				<e:Image source="bg_jpg" x="0" y="0" scaleX="1" scaleY="1"/>
-			</e:Group>
+		<e:Group id="gpMain" x="0" y="0" width="640"/>
+		<e:Label text="问题列表" y="29" anchorOffsetX="0" width="385" anchorOffsetY="0" height="54" horizontalCenter="0" fontFamily="Microsoft YaHei" textAlign="center"/>
+		<e:Label text="Label" x="88" y="125" visible="false"/>
 		</e:Group>
 	</e:Scroller>
+	<e:Label id="lbBack" text="X" x="27" y="15" anchorOffsetX="0" width="67" anchorOffsetY="0" height="58" textColor="0x21DEEF" size="60" fontFamily="Microsoft YaHei"/>
 </e:Skin>

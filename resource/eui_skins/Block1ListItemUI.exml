@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <e:Skin class="Block1ListItemUISkin" width="640" height="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
 	<w:Config id="1626fdf2a15" ></w:Config>
-	<e:Label id="lbName" text="如何创建函数" x="15" y="35" anchorOffsetX="0" width="385" anchorOffsetY="0" height="41"/>
+	<e:Rect width="640" height="50" x="0" verticalCenter="0" alpha="0.5"/>
+	<e:Label id="lbName" text="如何创建函数" x="88" anchorOffsetX="0" width="385" anchorOffsetY="0" height="41" verticalAlign="middle" fontFamily="Microsoft YaHei" size="25" verticalCenter="0.5"/>
 </e:Skin>

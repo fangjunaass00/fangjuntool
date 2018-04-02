@@ -23,5 +23,10 @@
         "path": "Block1Page1ShowDetailUI.ts",
         "class": "Block1Page1ShowDetailUI",
         "parentPath": ""
+    },
+    "1627642c913": {
+        "path": "BusinessFunctionUI.ts",
+        "class": "BusinessFunctionUI",
+        "parentPath": ""
     }
 }

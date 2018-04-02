@@ -74,6 +74,9 @@ class Main extends eui.UILayer {
             await RES.loadConfig("resource/default.res.json", "resource/");
             await this.loadTheme();
             await RES.loadGroup("preload", 0, loadingView);
+            await RES.loadGroup("bg", 1);
+            await RES.loadGroup("block1", 1);
+            await RES.loadGroup("mainPage", 2);
             this.stage.removeChild(loadingView);
         }
         catch (e) {

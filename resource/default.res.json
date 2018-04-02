@@ -1,12 +1,24 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,roundthumb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,rex_png,pic_png",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,roundthumb_png,track_sb_png,bg_jpg,egret_icon_png,description_json",
 			"name": "preload"
 		},
 		{
 			"keys": "jishu_png,zhuyi_png,yeuw_png,zuozhe_png",
 			"name": "mainPage"
+		},
+		{
+			"keys": "bg2_jpg,bg1_jpg,bg3_png",
+			"name": "bg"
+		},
+		{
+			"keys": "rex_png,pic_png",
+			"name": "block1"
+		},
+		{
+			"keys": "model2_png,model1_png",
+			"name": "block2"
 		}
 	],
 	"resources": [
@@ -76,14 +88,39 @@
 			"name": "zuozhe_png"
 		},
 		{
-			"name": "rex_png",
+			"url": "assets/fangjun/block1/message/rex.png",
 			"type": "image",
-			"url": "assets/fangjun/block1/message/rex.png"
+			"name": "rex_png"
 		},
 		{
-			"name": "pic_png",
+			"url": "assets/fangjun/block1/message/pic.png",
 			"type": "image",
-			"url": "assets/fangjun/block1/message/pic.png"
+			"name": "pic_png"
+		},
+		{
+			"url": "assets/fangjun/bg/bg2.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "assets/fangjun/bg/bg1.jpg",
+			"type": "image",
+			"name": "bg1_jpg"
+		},
+		{
+			"url": "assets/fangjun/bg/bg3.png",
+			"type": "image",
+			"name": "bg3_png"
+		},
+		{
+			"url": "assets/fangjun/block2/model2.png",
+			"type": "image",
+			"name": "model2_png"
+		},
+		{
+			"url": "assets/fangjun/block2/model1.png",
+			"type": "image",
+			"name": "model1_png"
 		}
 	]
 }

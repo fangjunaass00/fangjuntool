@@ -2,9 +2,11 @@ declare class AllControlUISkin extends eui.Skin{
 }
 declare class Block1ListItemUISkin extends eui.Skin{
 }
-declare class Block1Page1TechnologySkin extends eui.Skin{
+declare class Block1Page1ShowDetailUISkin extends eui.Skin{
 }
 declare class Block1Page1TechnologyUISkin extends eui.Skin{
+}
+declare class BusinessFunctionUISkin extends eui.Skin{
 }
 declare module skins{
 	class ButtonSkin extends eui.Skin{
